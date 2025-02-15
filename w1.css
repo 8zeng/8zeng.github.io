@@ -96,5 +96,7 @@ body{
 /* 主体部分 */
 .main{
     margin-left: 200px;
-    padding: 20px;
+    margin-top: 40px;
+    /* padding: 20px; */
+    /* background-color: red; */
 }
